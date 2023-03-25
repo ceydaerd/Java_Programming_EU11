@@ -18,5 +18,7 @@ public class EligibleToVote {
         if(!isEligible){
             System.out.println("not Eligible");
         }
+
+        }
     }
-}
+
